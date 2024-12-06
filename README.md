@@ -1,1 +1,3 @@
-# MTIS-Project-Courses-at-UVic
+# Projects performed in MTIS Program at UVic
+
+
