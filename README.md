@@ -3,6 +3,7 @@
 # ECE514 “DESIGN AND ANALYSIS OF COMMUNICATION NETWORKS
 
 ## “Roommate Wi-Fi Sharing: Balancing Router Capacity and User Experience” 
+https://github.com/GabrielNetSec/MTIS-Project-Courses-at-UVic/blob/main/Roommate%20WiFi%20Sharing_Gabriel%20Naranjo.pdf
 
 ### Objective
 
